@@ -1,4 +1,4 @@
-// ***Features***               Set-Array                       ArrayList(JAVA)
+// ***Features***               Set-Array(Like HashSet)          ArrayList(JAVA)
 // Duplicates	                ❌ Not allowed	                ✅ Allowed
 // Access by index	            ❌ No	                        ✅ Yes
 // Order preserved	            ✅ Yes (insertion order)	        ✅ Yes
