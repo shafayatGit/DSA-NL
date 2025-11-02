@@ -113,3 +113,4 @@ const getTopElectronicsProducts = rawApiData.filter(item=> item.category === "El
 .map(item=> ({name: item.productName, price: item.price})) //! jodi amra object return korte chai tahole curly braces er bahire parenthesis dite hobe . shudhu curly braces dile seta return korte hobe must
 
 console.log(getTopElectronicsProducts);
+
