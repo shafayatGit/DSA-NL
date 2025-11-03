@@ -18,7 +18,7 @@ const nestedArr = [1,2,[3,4],[5,6,[7,8]]];
 const flatArr1 = nestedArr.flat(Infinity); //jodi sob level deep flat korte chai tahole //!(Infinity) dite hobe
 console.log(flatArr1);
 
-//? Combining Set and Flat
+//? Combining Set and Flat.
 const tags = [
     ["electronics", "gadgets"],
     ["books", "literature"],
